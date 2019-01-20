@@ -12,3 +12,5 @@ class Dog
     @breed
   end
 end
+doggy=Dog.new
+doggy.breed="Mutt"
